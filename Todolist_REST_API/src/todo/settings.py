@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     # my apps
     'task',
     'crispy_forms',
+    "crispy_bootstrap4",
 ]
 
 
